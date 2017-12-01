@@ -8,9 +8,13 @@
 }
 
 body {
-    background-image: url("coco4.jpg");
-    background-position: center top;
-    background-size: 100% auto;
+    background-image: url("IMAGEN/wallpaper.jpg");
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 ul {
