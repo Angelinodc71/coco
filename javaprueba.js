@@ -1,11 +1,25 @@
-<html lang="en">
-  <head>
-    <title>LA ANNA ES TONTA</title>
-  </head>
-<body>
-    <script>
-      alert("LA ANNA ES TONTA");
-    </script>
-    <h1>LA ANNA ES TONTA</h1>
-</body>
-</html>
+
+$(document).ready(javaprueba);
+
+var contador = 1;
+
+function javaprueba () {
+	$('.menu_bar').click(function(){
+		if (contador == 1) {
+			$('nav').animate({
+				left: '0'
+			});
+			contador = 0;
+		} else {
+			contador = 1;
+			$('nav').animate({
+				left: '-100%'
+			});
+		}
+	});
+
+	// Mostramos y ocultamos submenus
+	$('.submenu').click(function(){
+		$(this).children('.children').slideToggle();
+	});
+}
