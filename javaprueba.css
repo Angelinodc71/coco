@@ -6,12 +6,6 @@
 	box-sizing: border-box;
 }
 
-body {background:#FEFEFE;}
-
-.menu_bar {
-	display:none;
-}
-
 header {
 	width: 100%;
 }
