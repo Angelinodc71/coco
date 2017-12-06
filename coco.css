@@ -1,10 +1,15 @@
+.espaco {
+  margin-top: 25px;
+
+}
+
 .hero-selector-intro {
   font-family: "big noodle tit", impact, sans-serif;
   font-size: 4.88281rem;
   font-style: italic;
   font-weight: 400;
   font-variant: normal;
-  letter-spacing: .5px;
+  letter-spacing: 5px;
 }
 
 body {
@@ -22,7 +27,8 @@ ul {
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: #333;
+    background-color: #000000;
+    opacity: 0.9;
 }
 
 li {
