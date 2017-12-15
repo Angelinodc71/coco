@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+  <meta charset="utf-8">
+  <meta name="robots" content="all,follow">
+  <meta name="googlebot" content="index,follow,snippet,archive">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>LibreHealth</title>
+
+  <meta name="author" content="" />
+  <meta name="keywords" content="">
+
+
+
+  <meta name="generator" content="Hugo 0.16" />
+
+  <link href='//fonts.googleapis.com/css?family=Roboto:400,100,100italic,300,300italic,500,700,800' rel='stylesheet' type='text/css'>
+
+
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css">
+
+
+  <link href="https://librehealth.io/css/animate.css" rel="stylesheet">
+
+
+  <link href="https://librehealth.io/css/style.default.css" rel="stylesheet" id="theme-stylesheet">
+
+
+  <link href="https://librehealth.io/css/custom.css" rel="stylesheet">
+
+
+
+
+
+  <link rel="shortcut icon" href="https://librehealth.io/img/favicon.ico" type="image/x-icon" />
+  <link rel="apple-touch-icon" href="https://librehealth.io/img/apple-touch-icon.png" />
+
+
+  <link href="https://librehealth.io/css/owl.carousel.css" rel="stylesheet">
+  <link href="https://librehealth.io/css/owl.theme.css" rel="stylesheet">
+
+
+
+  <meta property="og:title" content="LibreHealth" />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="//" />
+  <meta property="og:image" content="img/logo.png" />
+
+</head>
+
+
+  <body>
+
+    <div id="all">
+
+        <header>
+
+          <div class="navbar-affixed-top" data-spy="affix" data-offset-top="200">
+
+    <div class="navbar navbar-default yamm" role="navigation" id="navbar">
+
+        <div class="container">
+            <div class="navbar-header">
+                <a class="navbar-brand home" href="https://librehealth.io/">
+                    <img src="https://librehealth.io/img/logo.png" alt="LibreHealth logo" height="50px"
+                         class="hidden-xs hidden-sm">
+                    <img src="https://librehealth.io/img/logo-small.png" alt="LibreHealth logo"
+                         class="visible-xs visible-sm">
+                    <span class="sr-only">LibreHealth - go to homepage</span>
+                </a>
+                <div class="navbar-buttons">
+                    <button type="button" class="navbar-toggle btn-template-main" data-toggle="collapse"
+                            data-target="#navigation">
+                        <span class="sr-only">Toggle navigation</span>
+                        <i class="fa fa-align-justify"></i>
+                    </button>
+                </div>
+            </div>
+
+
+            <div class="navbar-collapse collapse" id="navigation">
+                <ul class="nav navbar-nav navbar-right">
+
+
+
+                    <li>
+                        <a href="https://librehealth.io/">
+
+                            <span>Home</span>
+                        </a>
+
+                    </li>
+
+
+
+                    <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+
+                        <span>Projects</span>
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/projects/lh-ehr"><i class="fa fa-user-md" aria-hidden="true"> </i> LibreHealth EHR </a> </li>
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/projects/lh-radiology"><i class="fa fa-heartbeat" aria-hidden="true"> </i> LibreHealth Radiology </a> </li>
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/projects/lh-toolkit"><i class="fa fa-medkit" aria-hidden="true"> </i> LibreHealth Toolkit </a> </li>
+
+                    </ul>
+
+                    </li>
+
+
+
+                    <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">
+
+                        <span>Teams</span>
+                        <span class="caret"></span>
+                    </a>
+                    <ul class="dropdown-menu">
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/teams/diversity"><i class="" aria-hidden="true"> </i> Diversity &amp; Inclusion </a> </li>
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/teams/documentation"><i class="fa fa-pencil" aria-hidden="true"> </i> Documentation </a> </li>
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/teams/education"><i class="fa fa-graduation-cap" aria-hidden="true"> </i> Education &amp; University Outreach </a> </li>
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/teams/infrastructure"><i class="fa fa-server" aria-hidden="true"> </i> LibreHealth Infrastructure Team </a> </li>
+
+                        <li
+                        >
+                        <a href="https://librehealth.io/teams/lsc"><i class="" aria-hidden="true"> </i> LibreHealth Steering Committee </a> </li>
+
+                    </ul>
+
+                    </li>
+
+									</body>
+								</html>
