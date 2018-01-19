@@ -29,7 +29,7 @@ div { border: thin solid black   }
   width: 25%;
   float: left; }
 
-#content2 {
+.content2 {
 }
 .raw {
   text-align: center;
@@ -56,6 +56,16 @@ img {
 .img-post-left {
   border: 1px solid black;
   float: left; }
+
+  .box {
+  }
+  .column {
+    text-align: center;
+    border: 6px solid #cc0099;
+    width: 28%;
+    float: right;
+    margin-top: 20px;
+    margin-right: 25px;
 
 .clearfix {
   border: 1px solid black;
