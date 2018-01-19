@@ -19,7 +19,7 @@ div { border: thin solid    }
 #content {
   text-align: center;
   width: 69%;
-  float: left;
+  float: right;
   padding: 5px;
   margin: 1px;
 }

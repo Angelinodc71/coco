@@ -18,48 +18,12 @@ div { border: thin solid    }
 }
 #content {
   text-align: center;
-  width: 69%;
-  float: left;
+  width: 100%;
+  float: right;
   padding: 5px;
   margin: 1px;
 }
 
-
-.content2 {
-}
-.raw {
-  text-align: center;
-  border: 5.5px solid #cc0099;
-  width: 13%;
-  float: left;
-  margin-top: 4.5px;
-  margin-right: 7px;
- }
- #left-menu {
-   text-align: right;
-   padding: 5px;
-   margin-top: 2px;
-   border: 11px solid #cc0099;;
-   width: 12%;
-   float: left; }
-   .content3 {
-   }
-   .raw2 {
-     text-align: center;
-     border: 5.5px solid #cc0099;
-     width: 13%;
-     float: right;
-     margin-top: 4.5px;
-     margin-right: 7px;
-    }
-    #left-menu2 {
-      text-align: right;
-      padding: 5px;
-      margin-top: 2px;
-      border: 11px solid #cc0099;;
-      width: 12%;
-      float: right;
-    }
 img {
   border: 5px solid green;
   max-width: 50%;

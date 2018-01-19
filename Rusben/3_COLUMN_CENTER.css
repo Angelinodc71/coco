@@ -19,7 +19,7 @@ div { border: thin solid    }
 #content {
   text-align: center;
   width: 69%;
-  float: left;
+  float: right;
   padding: 5px;
   margin: 1px;
 }
@@ -41,7 +41,7 @@ div { border: thin solid    }
    margin-top: 2px;
    border: 11px solid #cc0099;;
    width: 12%;
-   float: left; }
+   float: right; }
    .content3 {
    }
    .raw2 {
