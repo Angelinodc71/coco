@@ -1,15 +1,17 @@
-* { box-sizing: border-box ;}
+* { box-sizing: border-box;}
 
-div {  border: thin solid black; }
+div {  border: thin solid #dadada; }
 
-header
-header.main-menu { width: 50%; float: left;}
-header.main-menu-form { width: 50%; float: right;}
+header { }
+nav {}
+
+#main-menu { width: 50%; float: left;}
+#main-menu-form { width: 50%; float: right;}
 
 
 section { }
 article {  width: 70%; float: left; padding: 5px;}
-sectionright-menu {  width: 30%; float: right; }
+#right-menu {  width: 30%; float: right; }
 
 footer { }
 .footer-column {  width: 33.3333333%; float: left; }
