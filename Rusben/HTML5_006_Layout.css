@@ -7,14 +7,16 @@ div { border: thin solid black; }
 
 #main-wrapper { margin: 0 auto;}
 
-#header { background-color: red;}
+header { background-color: red;}
+nav { }
 #main-menu { width: 50%; float: left; }
 #main-menu-form { width: 50%; float: right; }
 
 #content-wrapper { margin-top: 50px; }
 #content { width: 70%; float: left;  }
+article { }
 #right-menu { width: 30%; float: right; border: 1px solid gray; padding: 10px; box-shadow: 1px 2px gray;}
-
+section { }
 .post { }
 .img-post { width: 30%; border: 1px solid #dadada; padding: 5px;}
 .img-post-left { float: left; }
@@ -28,7 +30,7 @@ div { border: thin solid black; }
 
 .clearfix { clear: both; }
 
-#footer {}
+footer { }
 .footer-column { width: 33.33333333%; float: left;}
 
 img { max-width: 100%; }
